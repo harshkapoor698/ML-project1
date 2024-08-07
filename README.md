@@ -3,7 +3,7 @@
 ### Software and account Requirement.
 
 1. [Github Account](https://github.com)
-2. [Heroku Account](https://dashboard.heroku.com/login)
+2. [render account](https://render.com)
 3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/downloads)
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
@@ -62,9 +62,9 @@ git remote -v
 ```
 
 To setup CI/CD pipeline in heroku we need 3 information
-1. HEROKU_EMAIL = harshkapoor698@gmail.com
-2. HEROKU_API_KEY = <>
-3. HEROKU_APP_NAME = ml-regression-app
+1. EMAIL = harshkapoor698@gmail.com
+2. API_KEY = <>
+3. APP_NAME = ml-regression-app
 
 BUILD DOCKER IMAGE
 ```
